@@ -20,7 +20,7 @@ function setup() {
 
 function draw() {
   background(207, 200, 178);
-  text('hey', 100, 100, 300);
+  text('write your own poem :)', 100, 60, 300);
   writePoem();
 }
 
