@@ -5,7 +5,7 @@ let userLine;
 let poem = [];
 
 function preload() {
-  f = loadFont('autography.otf');
+  f = loadFont('Autography.otf');
 }
 function setup() {
   createCanvas(windowWidth, windowHeight);
